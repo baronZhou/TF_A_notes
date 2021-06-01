@@ -1,4 +1,4 @@
-ARM Blogs
+TF-A Blogs
 ####################
 
 reserved
@@ -6,7 +6,8 @@ reserved
 .. toctree::
    :maxdepth: 2
 
-   assembly/index
+   spd
+   arm_sip_service
 
 
 
